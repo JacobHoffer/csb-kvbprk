@@ -13,4 +13,6 @@ It was also originally supposed to have a button to engage it but that idea got 
 
 Finally there is a vibrato option and I only gave it one control labeled "vibrate". All it does is control the wet setting of the effect so if you turn it up you get more vibration. There were more settings I could have messed with but I didn't want to I just wanted to give the ability to add more or less vibrato.
 
-There were some other ideas that I originally had planned like adding an option to change what instrument you're using and a step sequencer but they just didn't make the cut because I'm a big dumb stupid idiot and couldn't make them work immediately so I gave up. Anyways this is the Ass Synth enjoy! :]
+There were some other ideas that I originally had planned like adding an option to change what instrument you're using and a step sequencer but they just didn't make the cut because I'm a big dumb stupid idiot and couldn't make them work immediately so I gave up. Anyways this is the Ass Synth enjoy! :] 
+
+[AssSynth](https://jacobhoffer.github.io/csb-kvbprk/)
